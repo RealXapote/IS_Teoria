@@ -10,6 +10,4 @@ public abstract class CocheBuilder {
 	public void construirCoche() {
 		coche = new Coche();
 	}
-	// Caracteristicas Coche
-	// public abstract void XXXX();
 }
